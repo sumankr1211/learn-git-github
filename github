@@ -1,0 +1,6 @@
+/* makes git comfig file in home dir. where it stores username ,email ,token 
+/* after you once type your username and token on doig git push or anything else
+
+git config --global credential.helper store
+
+/*
